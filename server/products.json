@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cotton T-Shirt",
+    "sku": "TSH-001",
+    "category": "Apparel",
+    "price": 499,
+    "description": "Soft cotton everyday T-shirt.",
+    "color": "Black",
+    "material": "Cotton",
+    "size": "M",
+    "image": "https://placehold.co/400x400/f0e9ff/45358a?text=T-Shirt",
+    "stock": 42
+  },
+  {
+    "id": 2,
+    "name": "Urban Running Shoes",
+    "sku": "SHO-002",
+    "category": "Footwear",
+    "price": 2499,
+    "description": "Urban Running Shoes from our Footwear collection. Please review and add verified product details before publishing.",
+    "color": "White",
+    "material": "Mesh",
+    "size": "8",
+    "image": "https://placehold.co/400x400/e7f1ff/244a80?text=Shoes",
+    "stock": 18
+  },
+  {
+    "id": 3,
+    "name": "Travel Backpack",
+    "sku": "BAG-003",
+    "category": "Accessorie",
+    "price": 1499,
+    "description": "Lightweight travel backpack.",
+    "color": "",
+    "material": "Polyester",
+    "size": "Standard",
+    "image": "https://placehold.co/400x400/e8f7ed/236443?text=Backpack",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "name": "Classic Denim Jeans",
+    "sku": "JNS-004",
+    "category": "Apparel",
+    "price": 999,
+    "description": "Comfortable denim jeans.",
+    "color": "Blue",
+    "material": "Denim",
+    "size": "32",
+    "image": "https://placehold.co/400x400/e8f0ff/294b8a?text=Jeans",
+    "stock": 12
+  }
+]
